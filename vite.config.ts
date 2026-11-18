@@ -8,7 +8,9 @@ import tailwindcss from '@tailwindcss/vite';
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 
 const port = Number(process.env.PORT || 5173);
-const basePath = process.env.BASE_PATH || '/';
+
+// GitHub Pages repository path
+const basePath = '/Mohamed-Hader_Invitation/';
 
 export default defineConfig({
   base: basePath,
