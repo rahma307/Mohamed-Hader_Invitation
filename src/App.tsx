@@ -16,7 +16,7 @@ const couplePhoto = asset('WhatsApp Image 2026-11-18 at 12.28.37 PM.jpeg');
 const storyPhotoOne = asset('WhatsApp Image 2026-11-18 at 12.28.37 PM (1).jpeg');
 const storyPhotoTwo = asset('image.png');
 const storyPhotoThree = asset('WhatsApp Image 2026-11-18 at 12.28.37 PM.jpeg');
-const audioSource = asset('D:\wedding-invitation-stWhatsApp Audio 2026-11-18 at 1.34.06 PM.mp4');
+const audioSource = asset('WhatsApp Audio 2026-11-18 at 1.34.06 PM.mp4');
 
 const fadeUp = {
   hidden: { opacity: 0, y: 16 },
